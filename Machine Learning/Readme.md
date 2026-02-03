@@ -6,6 +6,7 @@ The goal of this section is to serve as:
 - 📘 A **conceptual reference**
 - 💻 A **hands-on implementation guide**
 - 🎯 An **interview-ready ML knowledge base**
+- ✍️ Blog: https://ml-notebooks.blogspot.com/
 
 Each topic follows a **clean and consistent structure**:
 - **README.md** → Complete theory & intuition  
